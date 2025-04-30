@@ -31,8 +31,18 @@ Maze_Runner/
 └── README.md
 ```
 ## 📸 Tangkapan Layar
-![Stage 1](Screenshots_MazeRunner/Stage1.png)
-![Stage 1 Info](Screenshots_MazeRunner/Stage1_info.png)
+
+### Stage 1
+![Stage 1](Screenshots_MazeRunner/stage1.png)
+![Stage 1 Info](Screenshots_MazeRunner/stage1_info.png)
+
+### Stage 2
+![Stage 2](Screenshots_MazeRunner/stage2.png)
+![Stage 2 Info](Screenshots_MazeRunner/stage2_info.png)
+
+### Stage 2
+![Stage 3](Screenshots_MazeRunner/stage3.png)
+![Stage 3 Info](Screenshots_MazeRunner/stage3_info.png)
 
 
 ## 🔧 Cara Menjalankan
