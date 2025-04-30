@@ -31,7 +31,9 @@ Maze_Runner/
 └── README.md
 ```
 ## 📸 Tangkapan Layar
-![Tangkapan Layar Aplikasi](https://github.com/KennAustin/Maze_Runner/raw/Screenshots_MazeRunner/stage1.png)
+![Stage 1](Screenshots_MazeRunner/Stage1.png)
+![Stage 1 Info](Screenshots_MazeRunner/Stage1_info.png)
+
 
 ## 🔧 Cara Menjalankan
 
